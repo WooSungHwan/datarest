@@ -1,4 +1,4 @@
-package com.example.datarest;
+package com.example.datarest.exam1;
 
 import lombok.*;
 
